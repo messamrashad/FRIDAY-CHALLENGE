@@ -42,4 +42,4 @@ The output part is just the Address Line splitted correctly in _JSON Format_.
 # Tests:
 Run the following command into any terminal after changing your current directory to the project's directory:
 
-`python3 -m unittest -v test_AddressPArser.py`
+`python3 -m unittest -v test_AddressParser.py`
